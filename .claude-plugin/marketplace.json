@@ -1,0 +1,13 @@
+{
+  "name": "csv-data-summarizer-marketplace",
+  "owner": {
+    "name": "coffeefuelbump"
+  },
+  "plugins": [
+    {
+      "name": "csv-data-summarizer",
+      "description": "Summarize and analyze CSV data",
+      "source": "./"
+    }
+  ]
+}
